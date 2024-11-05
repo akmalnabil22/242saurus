@@ -1,23 +1,15 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
+akmalnabil22:
+  name: Akmal Nabil Fikri
+  title: Masbro 1
+  url: https://github.com/akmalnabil22
+  image_url: https://avatars.githubusercontent.com/u/162313063?v=4
   socials:
-    x: yangshunz
-    github: yangshun
+	github: akmalnabil22
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+sincostandra:
+  name: Utandra Nur Ahmad Jaiz
+  title: Masbro 2
+  url: https://github.com/sincostandra
+  image_url: https://avatars.githubusercontent.com/u/139971786?v=4
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+	github: sincostandra
